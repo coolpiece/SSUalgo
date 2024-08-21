@@ -4,11 +4,129 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc9c0ef1-3404-4f69-9264-2926aa3e838e" name="Changes" comment="" />
+    <list default="true" id="bc9c0ef1-3404-4f69-9264-2926aa3e838e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DFS &amp; BFS/boj14501.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implement/spin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implement/swea_사재기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/0template.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/1149.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/11726.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/1260.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/1463.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/17127.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/17128.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/17129.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/17256.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/17259.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/17262.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/1806.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/1912.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/2178.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/2579.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/25945.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이소현/NHN_square.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1018.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1025.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10250.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1065.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10757.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10809.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10814.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10815.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10816.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10818.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10870.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10872.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10926.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10950.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10951.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/10989.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/11021.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1110.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/11478.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1152.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1157.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/11650.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/11651.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/11653.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/11654.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/11720.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/11729.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1181.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1193.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1269.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1316.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1427.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1436.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/14425.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/14888.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/14889.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/15552.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/15596.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/15649.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/15650.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/15651.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/15652.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1620.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1712.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/17478.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1764.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/18108.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/18870.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1929.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/1978.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2108.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2231.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2292.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2438.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2439.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2475.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2480.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/25083.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2525.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/25304.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/25305.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2558.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2580.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2581.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2675.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2739.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2741.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2742.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2750.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2751.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2798.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2839.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2869.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2908.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2920.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/2941.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/3003.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/4673.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/4948.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/5622.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/7568.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/8393.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/9020.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../이예슬/9663.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../한서윤/class2/11866.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../한서윤/class2/15829.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../한서윤/class2/1920.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../한서윤/class2/1966.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../한서윤/class2/2164.cpp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -16,6 +134,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2HkOlzOgHIpb66q1dzBwx9ViG16" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -24,23 +145,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/minhee/Desktop/boj/SSUalgo/이민희&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.boj14501.executor": "Run",
+    "Python.boj17140.executor": "Debug",
+    "Python.boj17141.executor": "Debug",
+    "Python.boj17142.executor": "Debug",
+    "Python.boj17142_other.executor": "Debug",
+    "Python.boj17825.executor": "Debug",
+    "Python.boj20057.executor": "Debug",
+    "Python.boj20058.executor": "Debug",
+    "Python.codetree_breakingTop.executor": "Debug",
+    "Python.codetree_mazeRunner.executor": "Debug",
+    "Python.royalKnightDuel.executor": "Run",
+    "Python.royalKnightDuel2.executor": "Run",
+    "Python.spin.executor": "Debug",
+    "Python.swea_사재기.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/minhee/Desktop/boj/SSUalgo/이민희",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="이민희" />
@@ -55,6 +193,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,5 +232,118 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/boj17140.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/boj17140.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mapping.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/boj17142_other.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/boj17142_other.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_breakingTop.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_breakingTop.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_breakingTop.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_mazeRunner.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_mazeRunner.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_mazeRunner.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_mazeRunner.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_mazeRunner.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/codetree_mazeRunner.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/royalKnightDuel.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/royalKnightDuel.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS &amp; BFS/boj14501.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/spin.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implement/spin.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="dx" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
